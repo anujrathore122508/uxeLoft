@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223831215065",
+    "project_id": "uxe-loft",
+    "storage_bucket": "uxe-loft.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223831215065:android:a57ca3adbd3339765ce7c8",
+        "android_client_info": {
+          "package_name": "com.example.uxe_loft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ--FlcOkL8oHGR6YU_sMJe4Ujd48bQME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
